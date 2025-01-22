@@ -1,0 +1,7 @@
+çizimler tamamen orjinali ile aynı
+kodu internette kolaylıkla bulunabiliyor. 
+arduino leonardo ile çok kolay şekilde yapılabilir. 
+
+Sadece potansiyometre ve arduino kullanarak 
+çok basit bir şekilde gerçekleştirilebilir. Şemaya 
+bile gerek yok
